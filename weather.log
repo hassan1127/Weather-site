@@ -1,0 +1,187 @@
+2026-05-19 21:32:18,309 - INFO - Fetching started for Lahore
+2026-05-19 21:32:18,310 - INFO - Fetching Started...
+2026-05-19 21:32:18,918 - INFO - fetch_weather took 0.6082 seconds
+2026-05-19 21:32:18,918 - INFO - Fetching Completed...
+2026-05-19 21:32:18,919 - INFO - Lahore fetched successfully - Temp: 35.5C
+2026-05-19 21:32:19,224 - INFO - Fetching started for Karachi
+2026-05-19 21:32:19,224 - INFO - Fetching Started...
+2026-05-19 21:32:19,800 - INFO - fetch_weather took 0.5757 seconds
+2026-05-19 21:32:19,800 - INFO - Fetching Completed...
+2026-05-19 21:32:19,801 - INFO - Karachi fetched successfully - Temp: 28.9C
+2026-05-19 21:32:20,101 - INFO - Fetching started for Islamabad
+2026-05-19 21:32:20,101 - INFO - Fetching Started...
+2026-05-19 21:32:20,676 - INFO - fetch_weather took 0.5745 seconds
+2026-05-19 21:32:20,676 - INFO - Fetching Completed...
+2026-05-19 21:32:20,676 - INFO - Islamabad fetched successfully - Temp: 30.6C
+2026-05-19 21:32:20,979 - INFO - Fetching started for Multan
+2026-05-19 21:32:20,979 - INFO - Fetching Started...
+2026-05-19 21:32:21,564 - INFO - fetch_weather took 0.5846 seconds
+2026-05-19 21:32:21,564 - INFO - Fetching Completed...
+2026-05-19 21:32:21,564 - INFO - Multan fetched successfully - Temp: 32.5C
+2026-05-19 21:32:21,870 - INFO - Fetching started for Peshawar
+2026-05-19 21:32:21,870 - INFO - Fetching Started...
+2026-05-19 21:32:22,449 - INFO - fetch_weather took 0.5785 seconds
+2026-05-19 21:32:22,449 - INFO - Fetching Completed...
+2026-05-19 21:32:22,449 - INFO - Peshawar fetched successfully - Temp: 31.5C
+2026-05-19 21:32:22,755 - INFO - Data saved to weather_data.csv
+2026-05-19 21:32:36,573 - INFO - CSV loaded successfully - 5 cities found
+2026-05-19 21:32:36,574 - INFO - Hottest city: Lahore - 35.5C
+2026-05-19 21:32:36,574 - INFO - Coldest city: Karachi - 28.9C
+2026-05-19 21:32:36,574 - INFO - Average temperature: 31.8C
+2026-05-19 21:32:36,575 - INFO - Report saved to report.txt
+2026-05-20 00:53:22,744 - INFO - Fetching started for Lahore
+2026-05-20 00:53:22,745 - INFO - Fetching Started...
+2026-05-20 00:53:23,391 - INFO - fetch_weather took 0.6459 seconds
+2026-05-20 00:53:23,391 - INFO - Fetching Completed...
+2026-05-20 00:53:23,391 - INFO - Lahore fetched successfully - Temp: 30.0
+2026-05-20 00:53:23,695 - INFO - Fetching started for Karachi
+2026-05-20 00:53:23,695 - INFO - Fetching Started...
+2026-05-20 00:53:24,291 - INFO - fetch_weather took 0.5959 seconds
+2026-05-20 00:53:24,292 - INFO - Fetching Completed...
+2026-05-20 00:53:24,292 - INFO - Karachi fetched successfully - Temp: 28.2
+2026-05-20 00:53:24,596 - INFO - Fetching started for Islamabad
+2026-05-20 00:53:24,597 - INFO - Fetching Started...
+2026-05-20 00:53:25,180 - INFO - fetch_weather took 0.5834 seconds
+2026-05-20 00:53:25,180 - INFO - Fetching Completed...
+2026-05-20 00:53:25,181 - INFO - Islamabad fetched successfully - Temp: 28.9
+2026-05-20 00:53:25,483 - INFO - Fetching started for Multan
+2026-05-20 00:53:25,483 - INFO - Fetching Started...
+2026-05-20 00:53:26,232 - INFO - fetch_weather took 0.7484 seconds
+2026-05-20 00:53:26,232 - INFO - Fetching Completed...
+2026-05-20 00:53:26,232 - INFO - Multan fetched successfully - Temp: 31.0
+2026-05-20 00:53:26,536 - INFO - Fetching started for Peshawar
+2026-05-20 00:53:26,536 - INFO - Fetching Started...
+2026-05-20 00:53:27,119 - INFO - fetch_weather took 0.5830 seconds
+2026-05-20 00:53:27,119 - INFO - Fetching Completed...
+2026-05-20 00:53:27,120 - INFO - Peshawar fetched successfully - Temp: 26.8
+2026-05-20 01:16:21,415 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 01:16:21,416 - INFO - Hottest city: Lahore - 35.5C
+2026-05-20 01:16:21,416 - INFO - Coldest city: Karachi - 28.9C
+2026-05-20 01:16:21,416 - INFO - Average temperature: 31.8C
+2026-05-20 01:16:21,417 - INFO - Report saved to report.txt
+2026-05-20 01:16:21,419 - INFO - Fetching started for Lahore
+2026-05-20 01:19:27,468 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 01:19:27,470 - INFO - Hottest city: Lahore - 35.5C
+2026-05-20 01:19:27,470 - INFO - Coldest city: Karachi - 28.9C
+2026-05-20 01:19:27,470 - INFO - Average temperature: 31.8C
+2026-05-20 01:19:27,471 - INFO - Report saved to report.txt
+2026-05-20 01:19:27,472 - INFO - Fetching started for Lahore
+2026-05-20 01:21:15,030 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 01:21:15,031 - INFO - Hottest city: Lahore - 35.5C
+2026-05-20 01:21:15,031 - INFO - Coldest city: Karachi - 28.9C
+2026-05-20 01:21:15,031 - INFO - Average temperature: 31.8C
+2026-05-20 01:21:15,033 - INFO - Report saved to report.txt
+2026-05-20 01:21:15,035 - INFO - Fetching started for Lahore
+2026-05-20 01:21:15,035 - INFO - Fetching Started...
+2026-05-20 01:21:15,646 - INFO - fetch_weather took 0.6112 seconds
+2026-05-20 01:21:15,646 - INFO - Fetching Completed...
+2026-05-20 01:21:15,646 - INFO - Lahore fetched successfully - Temp: 29.6
+2026-05-20 01:21:15,952 - INFO - Fetching started for Karachi
+2026-05-20 01:21:15,952 - INFO - Fetching Started...
+2026-05-20 01:21:16,527 - INFO - fetch_weather took 0.5743 seconds
+2026-05-20 01:21:16,527 - INFO - Fetching Completed...
+2026-05-20 01:21:16,527 - INFO - Karachi fetched successfully - Temp: 28.1
+2026-05-20 01:21:16,832 - INFO - Fetching started for Islamabad
+2026-05-20 01:21:16,832 - INFO - Fetching Started...
+2026-05-20 01:21:17,413 - INFO - fetch_weather took 0.5808 seconds
+2026-05-20 01:21:17,414 - INFO - Fetching Completed...
+2026-05-20 01:21:17,414 - INFO - Islamabad fetched successfully - Temp: 28.6
+2026-05-20 01:21:17,719 - INFO - Fetching started for Multan
+2026-05-20 01:21:17,719 - INFO - Fetching Started...
+2026-05-20 01:21:18,296 - INFO - fetch_weather took 0.5769 seconds
+2026-05-20 01:21:18,300 - INFO - Fetching Completed...
+2026-05-20 01:21:18,300 - INFO - Multan fetched successfully - Temp: 30.7
+2026-05-20 01:21:18,600 - INFO - Fetching started for Peshawar
+2026-05-20 01:21:18,601 - INFO - Fetching Started...
+2026-05-20 01:21:19,515 - INFO - fetch_weather took 0.9138 seconds
+2026-05-20 01:21:19,515 - INFO - Fetching Completed...
+2026-05-20 01:21:19,515 - INFO - Peshawar fetched successfully - Temp: 26.4
+2026-05-20 01:21:19,821 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 01:21:19,821 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 01:21:19,821 - INFO - Average temp: 28.7C
+2026-05-20 01:21:19,824 - INFO - Data saved to weather_data.csv
+2026-05-20 01:27:28,654 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 01:27:28,655 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 01:27:28,655 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 01:27:28,655 - INFO - Average temperature: 28.7C
+2026-05-20 01:27:28,656 - INFO - Report saved to report.txt
+2026-05-20 01:27:28,658 - INFO - Fetching started for Lahore
+2026-05-20 01:27:28,658 - INFO - Fetching Started...
+2026-05-20 01:27:29,328 - INFO - fetch_weather took 0.6703 seconds
+2026-05-20 01:27:29,328 - INFO - Fetching Completed...
+2026-05-20 01:27:29,329 - INFO - Lahore fetched successfully - Temp: 29.6
+2026-05-20 01:27:29,633 - INFO - Fetching started for Karachi
+2026-05-20 01:27:29,633 - INFO - Fetching Started...
+2026-05-20 01:27:30,340 - INFO - fetch_weather took 0.7068 seconds
+2026-05-20 01:27:30,340 - INFO - Fetching Completed...
+2026-05-20 01:27:30,341 - INFO - Karachi fetched successfully - Temp: 28.1
+2026-05-20 01:27:30,642 - INFO - Fetching started for Islamabad
+2026-05-20 01:27:30,642 - INFO - Fetching Started...
+2026-05-20 01:27:31,303 - INFO - fetch_weather took 0.6608 seconds
+2026-05-20 01:27:31,305 - INFO - Fetching Completed...
+2026-05-20 01:27:31,305 - INFO - Islamabad fetched successfully - Temp: 28.6
+2026-05-20 01:27:31,605 - INFO - Fetching started for Multan
+2026-05-20 01:27:31,606 - INFO - Fetching Started...
+2026-05-20 01:27:32,301 - INFO - fetch_weather took 0.6945 seconds
+2026-05-20 01:27:32,301 - INFO - Fetching Completed...
+2026-05-20 01:27:32,302 - INFO - Multan fetched successfully - Temp: 30.7
+2026-05-20 01:27:32,602 - INFO - Fetching started for Peshawar
+2026-05-20 01:27:32,602 - INFO - Fetching Started...
+2026-05-20 01:27:33,171 - INFO - fetch_weather took 0.5684 seconds
+2026-05-20 01:27:33,171 - INFO - Fetching Completed...
+2026-05-20 01:27:33,171 - INFO - Peshawar fetched successfully - Temp: 26.4
+2026-05-20 01:31:23,373 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 01:31:23,375 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 01:31:23,375 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 01:31:23,375 - INFO - Average temperature: 28.7C
+2026-05-20 01:31:23,376 - INFO - Report saved to report.txt
+2026-05-20 01:31:23,378 - INFO - Fetching started for Lahore
+2026-05-20 01:31:23,378 - INFO - Fetching Started...
+2026-05-20 01:31:24,001 - INFO - fetch_weather took 0.6237 seconds
+2026-05-20 01:31:24,002 - INFO - Fetching Completed...
+2026-05-20 01:31:24,002 - INFO - Lahore fetched successfully - Temp: 29.6
+2026-05-20 01:31:24,302 - INFO - Fetching started for Karachi
+2026-05-20 01:31:24,306 - INFO - Fetching Started...
+2026-05-20 01:31:24,880 - INFO - fetch_weather took 0.5741 seconds
+2026-05-20 01:31:24,880 - INFO - Fetching Completed...
+2026-05-20 01:31:24,880 - INFO - Karachi fetched successfully - Temp: 28.1
+2026-05-20 01:31:25,181 - INFO - Fetching started for Islamabad
+2026-05-20 01:31:25,181 - INFO - Fetching Started...
+2026-05-20 01:31:25,766 - INFO - fetch_weather took 0.5851 seconds
+2026-05-20 01:31:25,766 - INFO - Fetching Completed...
+2026-05-20 01:31:25,767 - INFO - Islamabad fetched successfully - Temp: 28.6
+2026-05-20 01:31:26,067 - INFO - Fetching started for Multan
+2026-05-20 01:31:26,068 - INFO - Fetching Started...
+2026-05-20 01:31:26,652 - INFO - fetch_weather took 0.5843 seconds
+2026-05-20 01:31:26,652 - INFO - Fetching Completed...
+2026-05-20 01:31:26,652 - INFO - Multan fetched successfully - Temp: 30.7
+2026-05-20 01:31:26,958 - INFO - Fetching started for Peshawar
+2026-05-20 01:31:26,958 - INFO - Fetching Started...
+2026-05-20 01:31:27,531 - INFO - fetch_weather took 0.5723 seconds
+2026-05-20 01:31:27,531 - INFO - Fetching Completed...
+2026-05-20 01:31:27,531 - INFO - Peshawar fetched successfully - Temp: 26.4
+2026-05-20 02:12:16,776 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 02:12:16,778 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 02:12:16,778 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 02:12:16,778 - INFO - Average temperature: 28.7C
+2026-05-20 02:12:16,779 - INFO - Report saved to report.txt
+2026-05-20 02:14:24,544 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 02:14:24,544 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 02:14:24,545 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 02:14:24,545 - INFO - Average temperature: 28.7C
+2026-05-20 02:14:24,545 - INFO - Report saved to report.txt
+2026-05-20 02:18:09,816 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 02:18:09,818 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 02:18:09,818 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 02:18:09,818 - INFO - Average temperature: 28.7C
+2026-05-20 02:18:09,819 - INFO - Report saved to report.txt
+2026-05-20 02:28:26,851 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 02:28:26,852 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 02:28:26,852 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 02:28:26,852 - INFO - Average temperature: 28.7C
+2026-05-20 02:28:26,853 - INFO - Report saved to report.txt
+2026-05-20 02:58:58,184 - INFO - CSV loaded successfully - 5 cities found
+2026-05-20 02:58:58,185 - INFO - Hottest city: Multan - 30.7C
+2026-05-20 02:58:58,185 - INFO - Coldest city: Peshawar - 26.4C
+2026-05-20 02:58:58,185 - INFO - Average temperature: 28.7C
+2026-05-20 02:58:58,186 - INFO - Report saved to report.txt

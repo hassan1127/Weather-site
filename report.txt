@@ -1,14 +1,14 @@
 Weather Report
 ==============================
 
-Hottest City       : Lahore
-Coldest City       : Islamabad
-Average Temperature: 26.1C
-Fastest Wind City  : Karachi (13.1 km/h)
+Hottest City       : Multan
+Coldest City       : Peshawar
+Average Temperature: 28.7C
+Fastest Wind City  : Karachi (11.8 km/h)
 
 All Cities:
-  Lahore: 28.2C, 7.3km/h wind
-  Karachi: 28.1C, 13.1km/h wind
-  Islamabad: 23.5C, 4.4km/h wind
-  Multan: 26.1C, 8.6km/h wind
-  Peshawar: 24.5C, 1.3km/h wind
+  Lahore: 29.6C, 4.6km/h wind
+  Karachi: 28.1C, 11.8km/h wind
+  Islamabad: 28.6C, 2.7km/h wind
+  Multan: 30.7C, 1.3km/h wind
+  Peshawar: 26.4C, 1.9km/h wind

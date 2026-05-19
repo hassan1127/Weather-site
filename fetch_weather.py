@@ -1,10 +1,13 @@
-
-
-
 import requests
 import csv
 import time
+import logging
 
+logging.basicConfig(
+    filename="weather.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 cities = [
     ("Lahore",     31.5204, 74.3587),
@@ -15,15 +18,15 @@ cities = [
 ]
 
 
-
 def log_function(func):
     def wrapper(*args, **kwargs):
         print("Fetching Started...")
+        logging.info("Fetching Started...")
         result = func(*args, **kwargs)
         print("Fetching Completed...")
+        logging.info("Fetching Completed...")
         return result
     return wrapper
-
 
 
 def timer(func):
@@ -32,16 +35,15 @@ def timer(func):
         result = func(*args, **kwargs)
         end = time.time()
         print(f"{func.__name__} took {end - start:.4f} seconds")
+        logging.info(f"{func.__name__} took {end - start:.4f} seconds")
         return result
     return wrapper
-
 
 
 @log_function
 @timer
 def fetch_weather(name, lat, lon):
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true"
-    
     try:
         response = requests.get(url, timeout=10)
         data = response.json()
@@ -55,19 +57,25 @@ def fetch_weather(name, lat, lon):
         }
     except Exception as e:
         print(f"Error fetching {name}: {e}")
+        logging.error(f"Error fetching {name}: {e}")
         return None
-
 
 
 all_data = []
 
 for name, lat, lon in cities:
     print(f"\nFetching {name} weather...")
+    logging.info(f"Fetching started for {name}")
+
     result = fetch_weather(name, lat, lon)
+
     if result:
         all_data.append(result)
-    time.sleep(0.3)
+        logging.info(f"{name} fetched successfully - Temp: {result['Temperature']}C")
+    else:
+        logging.error(f"Failed to fetch data for {name}")
 
+    time.sleep(0.3)
 
 
 with open("weather_data.csv", "w", newline="") as f:
@@ -77,7 +85,6 @@ with open("weather_data.csv", "w", newline="") as f:
         writer.writerow([row["City"], row["Temperature"], row["WindSpeed"], row["WeatherCode"], row["Time"]])
 
 print("\nData saved to CSV.")
-
-
+logging.info("Data saved to weather_data.csv")
 
 
